@@ -1,0 +1,80 @@
+[
+    {
+      "Country": "United States",
+      "ISO Code": "US",
+      "Latitude": 37.0902,
+      "Longitude": -95.5022
+    },
+    {
+      "Country": "Canada",
+      "ISO Code": "CA",
+      "Latitude": 53.0000,
+      "Longitude": -123.0000
+    },
+    {
+      "Country": "Mexico",
+      "ISO Code": "MX",
+      "Latitude": 23.0000,
+      "Longitude": -102.0000
+    },
+    {
+      "Country": "Brazil",
+      "ISO Code": "BR",
+      "Latitude": -23.0000,
+      "Longitude": -55.0000
+    },
+    {
+      "Country": "Argentina",
+      "ISO Code": "AR",
+      "Latitude": -32.0000,
+      "Longitude": -68.0000
+    },
+    {
+      "Country": "Chile",
+      "ISO Code": "CL",
+      "Latitude": -33.0000,
+      "Longitude": -70.0000
+    },
+    {
+      "Country": "Colombia",
+      "ISO Code": "CO",
+      "Latitude": 10.0000,
+      "Longitude": -72.0000
+    },
+    {
+      "Country": "Peru",
+      "ISO Code": "PE",
+      "Latitude": -12.0000,
+      "Longitude": -77.0000
+    },
+    {
+      "Country": "Ecuador",
+      "ISO Code": "EC",
+      "Latitude": -1.0000,
+      "Longitude": -79.0000
+    },
+    {
+      "Country": "Venezuela",
+      "ISO Code": "VE",
+      "Latitude": 7.0000,
+      "Longitude": -66.0000
+    },
+    {
+      "Country": "Guyana",
+      "ISO Code": "GY",
+      "Latitude": 6.0000,
+      "Longitude": -58.0000
+    },
+    {
+      "Country": "Suriname",
+      "ISO Code": "SR",
+      "Latitude": 6.0000,
+      "Longitude": -55.0000
+    },
+    {
+      "Country": "French Guiana",
+      "ISO Code": "GF",
+      "Latitude": 4.0000,
+      "Longitude": -53.0000
+    }
+  ]
